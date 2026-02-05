@@ -12,8 +12,4 @@ Run the Application:
 
 Double-click the shortcut on your desktop or the original.exe file to start the application.
 
-Support
-
-If you encounter any issues or have questions, please contact xxxxxxxxxx@gmail.com.
-
 Thank you for using Secure Sentinel! Enjoy!
