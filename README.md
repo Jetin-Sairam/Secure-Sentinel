@@ -5,7 +5,9 @@ Installation Instructions
 Create a Shortcut:
 
 1)Locate the Secure Sentinal.exe file in this directory.
+
 2)Right-click on the file and select "Create shortcut."
+
 3)Drag the newly created shortcut to your desktop for easier access.
 
 Run the Application:
